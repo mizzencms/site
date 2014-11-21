@@ -5,3 +5,4 @@ var/*
 config/*
 !config/*.sample
 *.sublime*
+.DS_Store
