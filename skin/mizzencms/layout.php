@@ -46,7 +46,7 @@
         echo '</div>';
         echo '<div class="bg-wrapper-middle">';
             echo '<div class="container">';
-                echo $this->partial('/index', 'index.php', false);
+                echo $this->partial('modules', 'index.php', false);
             echo '</div>';
         echo '</div>';
     } else {

@@ -35,7 +35,7 @@
         </strong></p>
     </div>
 </div>
-<?php echo $this->renderContent('modules'); ?>
+<?= $this->content; ?>
 <!-- <hr>
 <div class="well">
     <div class="row">
