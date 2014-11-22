@@ -12,6 +12,6 @@ development is in a steadier, beta stage.
 For hints as to how to install and use MizzenLite, please check
 our [GitHub repository][1]
 
-[1]: https://github.com/mizzenlite
+[1]: https://github.com/mizzencms
     </div>
 </div>

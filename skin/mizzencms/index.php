@@ -17,7 +17,7 @@
             MizzenLite is not available for download yet. However, 
             if you would like to obtain a copy of the code, you can
             find it on 
-            <a href="https://github.com/mizzenlite">GitHub</a> 
+            <a href="https://github.com/mizzencms">GitHub</a> 
             or add it to your project via 
             <a href="https://packagist.org/packages/strayobject/mizzenlite">Composer</a>.
         </p>
@@ -29,7 +29,7 @@
         </p>
         <p><strong>
             Please use 
-            <a href="https://github.com/mizzenlite/core/issues">
+            <a href="https://github.com/mizzencms/core/issues">
             GitHub Issues</a> 
             to report bugs and request new features.
         </strong></p>

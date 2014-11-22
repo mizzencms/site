@@ -11,7 +11,7 @@ date:2014-11-19
         <p>
             Modules are an experimental feature and may be used
             with, or extracted from a 
-            <a href="https://github.com/mizzenlite/skeleton">
+            <a href="https://github.com/mizzencms/skeleton">
             MizzenLite 'skeleton'</a> repository.
         </p>
     </div>

@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title><?= $this->config->siteName; ?>: <?= $this->meta->title; ?></title>
-    <meta name="description" content="<?= $this->meta->description; ?>" />
-    <meta name="keywords" content="<?= $this->meta->keywords; ?>">
-    <meta property="og:title" content="<?= $this->config->siteName; ?>: <?= $this->meta->title; ?>">
+    <meta name="description" content="<?= $this->meta->description; ?>"/>
+    <meta name="keywords" content="<?= $this->config->siteKeywords; ?>"/>
+    <meta property="og:title" content="<?= $this->config->siteName; ?>: <?= $this->meta->title; ?>"/>
     <link href="/skin/mizzencms/css/bootstrap.min.css" rel="stylesheet"  type="text/css"/>
     <link href="/skin/mizzencms/css/main.css" rel="stylesheet"  type="text/css"/>
-    <link href="/skin/mizzencms/fonts/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/skin/mizzencms/fonts/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <link href="/skin/mizzencms/fonts/lato/stylesheet.css" rel="stylesheet"  type="text/css"/>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -64,7 +64,7 @@
                     <div class="col-lg-12">
                         <p>
                             Please use 
-                            <a href="https://github.com/mizzenlite/core/issues">
+                            <a href="https://github.com/mizzencms/core/issues">
                             GitHub Issues
                             </a> to report bugs and request new features.
                         </p>
