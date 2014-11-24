@@ -1,23 +1,19 @@
 #MizzenCMS Lite
 
-This is a "work in progress" repo of MizzenCMS Lite aka MizzenLite.
-
-> Please note that the CMS is not even beta and code here may,
-and will be changed in a way that will break bc.
-> Content of the modules directory will be removed from this repo in the near
-future.
-> You should have no need to use it at the moment, however if you are curious
-read on.
+This is a "work in progress" repo of MizzenCMS Lite (aka MizzenLite) website.
 
 ###Installation
 ----
+
+For info check our [website](http://mizzencms.net) or 
+[GitHub repos](https://github.com/mizzencms)  
 
 If you insist on installing this locally, clone the repo and do:
 
 ```bash
 $ cd <folder_name>
 $ composer install
-\# following line is optional as submodules come and go
+# following line is optional as submodules come and go
 $ git submodule init && git submodule update
 $ cp config/config.json.sample config/config.json
 $ sudo chmod 0777 var
